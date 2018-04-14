@@ -15,7 +15,7 @@ s/зг/zgh/g;s/Зг/Zgh/g;s/ЗГ/ZGH/g;s/зГ/zgH/g;\
 \
 s/^й/y/g;s/^Й/Y/g;s/\ й/\ y/g;s/\ Й/\ Y/g;s/й/i/g;s/Й/I/g;\
 \
-s/^є/ye/g;s/^Є/Ye/g;s/\ є/\ ye/g;s/\ Є/\ Ie/g;s/є/ie/g;s/Є/Ie/g;\
+s/^є/ye/g;s/^Є/Ye/g;s/\ є/\ ye/g;s/\ Є/\ Ye/g;s/є/ie/g;s/Є/Ie/g;\
 \
 s/^ї/yi/g;s/^Ї/Yi/g;s/\ ї/\ yi/g;s/\ Ї/\ Yi/g;s/ї/i/g;s/Ї/I/g;\
 \
