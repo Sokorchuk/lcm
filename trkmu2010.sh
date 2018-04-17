@@ -9,7 +9,7 @@
 # (C) 2018 Ihor P. Sokorchuk
 #
 sed -e "\
-s/[ьЬ']//g;\
+s/[ьЬ'’’\`]//g;\
 \
 s/зг/zgh/g;s/Зг/Zgh/g;s/ЗГ/ZGH/g;s/зГ/zgH/g;\
 \
